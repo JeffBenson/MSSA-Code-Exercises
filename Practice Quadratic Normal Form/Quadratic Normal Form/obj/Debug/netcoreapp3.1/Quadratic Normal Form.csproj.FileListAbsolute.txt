@@ -1,0 +1,13 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\bin\Debug\netcoreapp3.1\Quadratic Normal Form.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\bin\Debug\netcoreapp3.1\Quadratic Normal Form.deps.json
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\bin\Debug\netcoreapp3.1\Quadratic Normal Form.runtimeconfig.json
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\bin\Debug\netcoreapp3.1\Quadratic Normal Form.runtimeconfig.dev.json
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\bin\Debug\netcoreapp3.1\Quadratic Normal Form.dll
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\bin\Debug\netcoreapp3.1\Quadratic Normal Form.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\obj\Debug\netcoreapp3.1\Quadratic Normal Form.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\obj\Debug\netcoreapp3.1\Quadratic Normal Form.AssemblyInfoInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\obj\Debug\netcoreapp3.1\Quadratic Normal Form.AssemblyInfo.cs
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\obj\Debug\netcoreapp3.1\Quadratic Normal Form.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\obj\Debug\netcoreapp3.1\Quadratic Normal Form.dll
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\obj\Debug\netcoreapp3.1\Quadratic Normal Form.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Quadratic Normal Form\Quadratic Normal Form\obj\Debug\netcoreapp3.1\Quadratic Normal Form.genruntimeconfig.cache

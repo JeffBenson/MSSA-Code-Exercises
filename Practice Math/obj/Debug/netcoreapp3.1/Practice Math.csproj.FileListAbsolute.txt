@@ -1,0 +1,13 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\bin\Debug\netcoreapp3.1\Practice Math.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\bin\Debug\netcoreapp3.1\Practice Math.deps.json
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\bin\Debug\netcoreapp3.1\Practice Math.runtimeconfig.json
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\bin\Debug\netcoreapp3.1\Practice Math.runtimeconfig.dev.json
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\bin\Debug\netcoreapp3.1\Practice Math.dll
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\bin\Debug\netcoreapp3.1\Practice Math.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\obj\Debug\netcoreapp3.1\Practice Math.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\obj\Debug\netcoreapp3.1\Practice Math.AssemblyInfoInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\obj\Debug\netcoreapp3.1\Practice Math.AssemblyInfo.cs
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\obj\Debug\netcoreapp3.1\Practice Math.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\obj\Debug\netcoreapp3.1\Practice Math.dll
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\obj\Debug\netcoreapp3.1\Practice Math.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Projects\Practice\Practice Math\obj\Debug\netcoreapp3.1\Practice Math.genruntimeconfig.cache
