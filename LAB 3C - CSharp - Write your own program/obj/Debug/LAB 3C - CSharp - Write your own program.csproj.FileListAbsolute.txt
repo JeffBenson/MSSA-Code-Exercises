@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program\obj\Debug\LAB 3C - CSharp - Write your own program.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program\obj\Debug\LAB 3C - CSharp - Write your own program.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program\bin\Debug\LAB 3C - CSharp - Write your own program.exe.config
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program\bin\Debug\LAB 3C - CSharp - Write your own program.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program\bin\Debug\LAB 3C - CSharp - Write your own program.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program\obj\Debug\LAB 3C - CSharp - Write your own program.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program\obj\Debug\LAB 3C - CSharp - Write your own program.pdb

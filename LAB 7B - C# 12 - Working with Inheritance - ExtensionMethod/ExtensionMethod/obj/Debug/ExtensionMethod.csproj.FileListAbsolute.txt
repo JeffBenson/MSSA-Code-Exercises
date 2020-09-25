@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 1\Tech\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb

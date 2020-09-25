@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\Individual Work part 3 - Different Operators\bin\Debug\Individual Work part 3 - Different Operators.exe.config
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\Individual Work part 3 - Different Operators\bin\Debug\Individual Work part 3 - Different Operators.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\Individual Work part 3 - Different Operators\bin\Debug\Individual Work part 3 - Different Operators.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\Individual Work part 3 - Different Operators\obj\Debug\Individual Work part 3 - Different Operators.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\Individual Work part 3 - Different Operators\obj\Debug\Individual Work part 3 - Different Operators.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\Individual Work part 3 - Different Operators\obj\Debug\Individual Work part 3 - Different Operators.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\Individual Work part 3 - Different Operators\obj\Debug\Individual Work part 3 - Different Operators.pdb

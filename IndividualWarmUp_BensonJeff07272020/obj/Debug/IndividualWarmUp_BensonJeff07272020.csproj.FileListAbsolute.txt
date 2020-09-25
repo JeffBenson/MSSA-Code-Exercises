@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\IndividualWarmUp_BensonJeff07272020\bin\Debug\IndividualWarmUp_BensonJeff07272020.exe.config
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\IndividualWarmUp_BensonJeff07272020\bin\Debug\IndividualWarmUp_BensonJeff07272020.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\IndividualWarmUp_BensonJeff07272020\bin\Debug\IndividualWarmUp_BensonJeff07272020.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\IndividualWarmUp_BensonJeff07272020\obj\Debug\IndividualWarmUp_BensonJeff07272020.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\IndividualWarmUp_BensonJeff07272020\obj\Debug\IndividualWarmUp_BensonJeff07272020.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\IndividualWarmUp_BensonJeff07272020\obj\Debug\IndividualWarmUp_BensonJeff07272020.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\IndividualWarmUp_BensonJeff07272020\obj\Debug\IndividualWarmUp_BensonJeff07272020.pdb

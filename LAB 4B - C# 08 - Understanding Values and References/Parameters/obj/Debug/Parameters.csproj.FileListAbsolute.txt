@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 6\Tech\C#\LAB 4B - C# 08 - Understanding Values and References\Parameters\bin\Debug\Parameters.exe.config
+C:\Users\jeffb\Desktop\MSSA Materials\Week 6\Tech\C#\LAB 4B - C# 08 - Understanding Values and References\Parameters\bin\Debug\Parameters.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 6\Tech\C#\LAB 4B - C# 08 - Understanding Values and References\Parameters\bin\Debug\Parameters.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 6\Tech\C#\LAB 4B - C# 08 - Understanding Values and References\Parameters\obj\Debug\Parameters.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 6\Tech\C#\LAB 4B - C# 08 - Understanding Values and References\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 6\Tech\C#\LAB 4B - C# 08 - Understanding Values and References\Parameters\obj\Debug\Parameters.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 6\Tech\C#\LAB 4B - C# 08 - Understanding Values and References\Parameters\obj\Debug\Parameters.pdb

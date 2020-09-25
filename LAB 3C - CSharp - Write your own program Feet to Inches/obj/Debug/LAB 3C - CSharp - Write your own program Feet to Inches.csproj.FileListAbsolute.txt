@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program Feet to Inches\bin\Debug\LAB 3C - CSharp - Write your own program Feet to Inches.exe.config
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program Feet to Inches\bin\Debug\LAB 3C - CSharp - Write your own program Feet to Inches.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program Feet to Inches\bin\Debug\LAB 3C - CSharp - Write your own program Feet to Inches.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program Feet to Inches\obj\Debug\LAB 3C - CSharp - Write your own program Feet to Inches.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program Feet to Inches\obj\Debug\LAB 3C - CSharp - Write your own program Feet to Inches.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program Feet to Inches\obj\Debug\LAB 3C - CSharp - Write your own program Feet to Inches.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program Feet to Inches\obj\Debug\LAB 3C - CSharp - Write your own program Feet to Inches.pdb

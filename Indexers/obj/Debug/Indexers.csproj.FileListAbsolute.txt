@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 12\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\jeffb\Desktop\MSSA Materials\Week 12\Indexers\bin\Debug\Indexers.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 12\Indexers\bin\Debug\Indexers.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 12\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 12\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 12\Indexers\obj\Debug\Indexers.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 12\Indexers\obj\Debug\Indexers.pdb

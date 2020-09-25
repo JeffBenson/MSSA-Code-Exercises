@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 10\AbstractProperties\obj\Debug\AbstractProperties.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 10\AbstractProperties\obj\Debug\AbstractProperties.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 10\AbstractProperties\bin\Debug\AbstractProperties.exe.config
+C:\Users\jeffb\Desktop\MSSA Materials\Week 10\AbstractProperties\bin\Debug\AbstractProperties.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 10\AbstractProperties\bin\Debug\AbstractProperties.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 10\AbstractProperties\obj\Debug\AbstractProperties.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 10\AbstractProperties\obj\Debug\AbstractProperties.pdb

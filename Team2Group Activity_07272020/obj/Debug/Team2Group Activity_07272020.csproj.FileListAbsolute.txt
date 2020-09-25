@@ -1,0 +1,2 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\Team2Group Activity_07272020\obj\Debug\Team2Group Activity_07272020.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\Team2Group Activity_07272020\obj\Debug\Team2Group Activity_07272020.csproj.CoreCompileInputs.cache

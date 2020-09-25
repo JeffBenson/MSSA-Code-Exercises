@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IndividualWarupPart5_BensonJeff07202020/1.0.0": {
+        "runtime": {
+          "IndividualWarupPart5_BensonJeff07202020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndividualWarupPart5_BensonJeff07202020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

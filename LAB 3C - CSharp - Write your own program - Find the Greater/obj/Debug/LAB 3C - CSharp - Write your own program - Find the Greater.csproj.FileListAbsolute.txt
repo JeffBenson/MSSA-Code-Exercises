@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program - Find the Greater\bin\Debug\LAB 3C - CSharp - Write your own program - Find the Greater.exe.config
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program - Find the Greater\bin\Debug\LAB 3C - CSharp - Write your own program - Find the Greater.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program - Find the Greater\bin\Debug\LAB 3C - CSharp - Write your own program - Find the Greater.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program - Find the Greater\obj\Debug\LAB 3C - CSharp - Write your own program - Find the Greater.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program - Find the Greater\obj\Debug\LAB 3C - CSharp - Write your own program - Find the Greater.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program - Find the Greater\obj\Debug\LAB 3C - CSharp - Write your own program - Find the Greater.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 5\Tech\C#\LAB 3C - CSharp - Write your own program - Find the Greater\obj\Debug\LAB 3C - CSharp - Write your own program - Find the Greater.pdb

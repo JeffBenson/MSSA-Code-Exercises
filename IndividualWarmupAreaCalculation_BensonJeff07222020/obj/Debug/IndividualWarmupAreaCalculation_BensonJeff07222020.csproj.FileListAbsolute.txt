@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 3\IndividualWarmupAreaCalculation_BensonJeff07222020\bin\Debug\IndividualWarmupAreaCalculation_BensonJeff07222020.exe.config
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 3\IndividualWarmupAreaCalculation_BensonJeff07222020\bin\Debug\IndividualWarmupAreaCalculation_BensonJeff07222020.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 3\IndividualWarmupAreaCalculation_BensonJeff07222020\bin\Debug\IndividualWarmupAreaCalculation_BensonJeff07222020.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 3\IndividualWarmupAreaCalculation_BensonJeff07222020\obj\Debug\IndividualWarmupAreaCalculation_BensonJeff07222020.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 3\IndividualWarmupAreaCalculation_BensonJeff07222020\obj\Debug\IndividualWarmupAreaCalculation_BensonJeff07222020.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 3\IndividualWarmupAreaCalculation_BensonJeff07222020\obj\Debug\IndividualWarmupAreaCalculation_BensonJeff07222020.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 3\IndividualWarmupAreaCalculation_BensonJeff07222020\obj\Debug\IndividualWarmupAreaCalculation_BensonJeff07222020.pdb

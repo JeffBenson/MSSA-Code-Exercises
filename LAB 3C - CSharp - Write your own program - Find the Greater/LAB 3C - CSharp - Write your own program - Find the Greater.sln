@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB 3C - CSharp - Write your own program - Find the Greater", "LAB 3C - CSharp - Write your own program - Find the Greater.csproj", "{F62282FA-0BF4-4F7B-BF8D-E5EBDF48FE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62282FA-0BF4-4F7B-BF8D-E5EBDF48FE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62282FA-0BF4-4F7B-BF8D-E5EBDF48FE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62282FA-0BF4-4F7B-BF8D-E5EBDF48FE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62282FA-0BF4-4F7B-BF8D-E5EBDF48FE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93EC077B-76C4-47D9-B040-E497AD35F3C5}
+	EndGlobalSection
+EndGlobal

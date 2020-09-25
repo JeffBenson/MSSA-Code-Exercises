@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 1\Lab 1A\Lab1A TestHello\bin\Debug\Lab1A TestHello.exe.config
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 1\Lab 1A\Lab1A TestHello\bin\Debug\Lab1A TestHello.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 1\Lab 1A\Lab1A TestHello\bin\Debug\Lab1A TestHello.pdb
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 1\Lab 1A\Lab1A TestHello\obj\Debug\Lab1A TestHello.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 1\Lab 1A\Lab1A TestHello\obj\Debug\Lab1A TestHello.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 1\Lab 1A\Lab1A TestHello\obj\Debug\Lab1A TestHello.exe
+C:\Users\jeffb\Desktop\MSSA Materials\Week 4\Tech\Day 1\Lab 1A\Lab1A TestHello\obj\Debug\Lab1A TestHello.pdb
