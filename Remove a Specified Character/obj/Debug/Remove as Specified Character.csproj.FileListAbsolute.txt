@@ -1,0 +1,14 @@
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove as Specified Character\bin\Debug\Remove as Specified Character.exe.config
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove as Specified Character\bin\Debug\Remove as Specified Character.exe
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove as Specified Character\bin\Debug\Remove as Specified Character.pdb
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove as Specified Character\obj\Debug\Remove as Specified Character.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove as Specified Character\obj\Debug\Remove as Specified Character.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove as Specified Character\obj\Debug\Remove as Specified Character.exe
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove as Specified Character\obj\Debug\Remove as Specified Character.pdb
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove a Specified Character\bin\Debug\Remove as Specified Character.exe.config
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove a Specified Character\bin\Debug\Remove as Specified Character.exe
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove a Specified Character\bin\Debug\Remove as Specified Character.pdb
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove a Specified Character\obj\Debug\Remove as Specified Character.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove a Specified Character\obj\Debug\Remove as Specified Character.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove a Specified Character\obj\Debug\Remove as Specified Character.exe
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\Remove a Specified Character\obj\Debug\Remove as Specified Character.pdb

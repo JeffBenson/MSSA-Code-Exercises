@@ -1,0 +1,7 @@
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\LetterSwap - Switches the First and Last Letter of a user's\bin\Debug\LetterSwap - Switches the First and Last Letter of a user's.exe.config
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\LetterSwap - Switches the First and Last Letter of a user's\bin\Debug\LetterSwap - Switches the First and Last Letter of a user's.exe
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\LetterSwap - Switches the First and Last Letter of a user's\bin\Debug\LetterSwap - Switches the First and Last Letter of a user's.pdb
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\LetterSwap - Switches the First and Last Letter of a user's\obj\Debug\LetterSwap - Switches the First and Last Letter of a user's.csprojAssemblyReference.cache
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\LetterSwap - Switches the First and Last Letter of a user's\obj\Debug\LetterSwap - Switches the First and Last Letter of a user's.csproj.CoreCompileInputs.cache
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\LetterSwap - Switches the First and Last Letter of a user's\obj\Debug\LetterSwap - Switches the First and Last Letter of a user's.exe
+C:\Users\jeffb\Desktop\GitHub\Warmups\C#\LetterSwap - Switches the First and Last Letter of a user's\obj\Debug\LetterSwap - Switches the First and Last Letter of a user's.pdb
